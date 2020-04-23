@@ -4,3 +4,4 @@ Library
 *.meta
 Temp
 ProjectSettings
+obj/Debug
